@@ -1,15 +1,20 @@
 # 👋 Hi, I’m @milanbaraiya
 
 ## 👀 Interests
-- Python
+# Frontend:
+- HTML
+- CSS
 - JavaScript
+- jQuery
+
+# Backend:
+- Python
 - PHP
 - Java
 - MySQL
 
 ## 🌱 Currently Learning
-- Python
-- MySQL
+- Bootstrap
 - JavaScript
 
 ## 💞️ Looking to Collaborate On
